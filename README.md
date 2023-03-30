@@ -4,7 +4,11 @@
   <img src="https://media.giphy.com/media/1afuwyOsr5E8X9CuRV/giphy.gif" width="500"/>
 </div>
 
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/swarajparida">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **eminent02/eminent02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
