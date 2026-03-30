@@ -79,9 +79,6 @@ class SwarajParida:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=eminent02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminent02&layout=compact&theme=tokyonight&hide_border=true" />
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eminent02&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
