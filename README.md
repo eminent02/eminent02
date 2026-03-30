@@ -1,33 +1,112 @@
-### Hi there 👋
+<div align="center">
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1afuwyOsr5E8X9CuRV/giphy.gif" width="500"/>
+```
+██████╗  █████╗ ████████╗ █████╗     ███████╗███╗   ██╗ ██████╗
+██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝████╗  ██║██╔════╝
+██║  ██║███████║   ██║   ███████║    █████╗  ██╔██╗ ██║██║  ███╗
+██║  ██║██╔══██║   ██║   ██╔══██║    ██╔══╝  ██║╚██╗██║██║   ██║
+██████╔╝██║  ██║   ██║   ██║  ██║    ███████╗██║ ╚████║╚██████╔╝
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝
+```
+
+### `> Turning raw data into actionable intelligence`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarajparida/)
+[![Profile Views](https://komarev.com/ghpvc/?username=eminent02&style=for-the-badge&color=0e75b6)](https://github.com/eminent02)
+
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/swarajparida">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+---
+
+```python
+class SwarajParida:
+    role        = "Data Engineer"
+    location    = "India 🇮🇳"
+    focus       = ["Data Engineering", "Data Science", "Agentic AI"]
+    
+    def current_mission(self):
+        return "Building intelligent data pipelines & agentic AI systems"
+    
+    def fun_fact(self):
+        return "I believe every dataset has a story. My job is to tell it."
+```
+
+---
+
+## ⚡ What I Do
+
+```
+📦 DATA ENGINEERING    ──────────────────────────────── ██████████ 100%
+   Pipelines · ETL/ELT · Data Lakes · Warehousing
+
+🤖 AGENTIC AI          ──────────────────────────────── ████████░░  80%
+   LLM Orchestration · Autonomous Agents · RAG Systems
+
+📊 DATA SCIENCE        ──────────────────────────────── ███████░░░  70%
+   Analytics · Modeling · Insight Generation
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+**Data & Cloud**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+**AI / ML**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=eminent02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminent02&layout=compact&theme=tokyonight&hide_border=true" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eminent02&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
-<img src="https://komarev.com/ghpvc/?username=eminent02&style=flat-square&color=blue" alt=""/>
-<a href = "http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000" </a>
 
+---
 
+## 🔭 Current Focus
 
+```
+🚀  Building production-grade data pipelines at scale
+🤖  Exploring agentic AI workflows & multi-agent systems
+📚  Deep-diving into real-time streaming architectures
+🌐  Contributing to open-source data tooling
+```
 
+---
 
+<div align="center">
 
-<!--
-**eminent02/eminent02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 Let's connect and build something meaningful with data.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarajparida/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*"Data is the new oil — but only if you know how to refine it."*
+
+</div>
